@@ -3,7 +3,7 @@
 ## Map
 ![Image](vote-application-map.png)
 
-## Namespace Creation
+## Create Namespace
 `kubectl create namespace vote`
 
 ## Namespace
