@@ -17,3 +17,6 @@ spec:
       containers:
       - name: result
         image: kodekloud/examplevotingapp_result:before
+      ports:
+      - containerPort: 80
+      
