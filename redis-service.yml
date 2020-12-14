@@ -4,7 +4,7 @@ metadata:
   name: redis
   namespace: vote
 spec:
-  type: CluserIp
+  type: CluserIP
   ports:
     - port: 6379
       targetPort: 6379
