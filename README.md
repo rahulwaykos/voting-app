@@ -1,5 +1,3 @@
-# Voting Application
-
 ![Image](vote-application.png)
 
 ## Map
