@@ -4,6 +4,7 @@ metadata:
   name: db
   namespace: vote
 spec:
+  type: ClusterIP
   ports:
   - name: db
     port: 5432
